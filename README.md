@@ -52,3 +52,8 @@ export default tseslint.config({
   },
 })
 ```
+
+
+supposed to use only typescript and vite only.
+
+make sure to install "npm install" before running program.
